@@ -13,7 +13,7 @@ Beige #e6d3b3<br>
 
 ### cheesy poems from ChatGPT
 
-![alt text](Bildschirmfoto_10-5-2026_183511_127.0.0.1.jpeg)
+<img width="800" alt="Bildschirmfoto_10-5-2026_183511_127 0 0 1" src="https://github.com/user-attachments/assets/d0429b73-c0a3-4ab7-b56b-8b7fd491b972" />
 
 
 
