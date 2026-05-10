@@ -11,5 +11,9 @@ Dark Brown #4b3621<br>
 Caramel #d2a679<br>
 Beige #e6d3b3<br>
 
+### cheesy poems from ChatGPT
+
+![alt text](Bildschirmfoto_10-5-2026_183511_127.0.0.1.jpeg)
+
 
 
