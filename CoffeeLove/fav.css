@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:#c8a98d;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#fav-list{
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    justify-items: center;
+    gap: 10px;
+    width: 100%;
+}
+
+#fav-list img {
+    width: 200px;
+    height: auto;
+}
