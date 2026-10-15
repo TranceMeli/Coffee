@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Design-Coffee%20Inspired-E8D8C3?style=for-the-badge&labelColor=6F4E37" alt="Coffee Inspired Design" />
 </p>
 
+<img width="1731" height="1358" alt="image" src="https://github.com/user-attachments/assets/64b31d0f-0368-4600-9a53-2c40b074a67b" />
+
 ---
 
 ## About the Project
